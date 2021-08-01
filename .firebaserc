@@ -1,0 +1,11 @@
+{
+  "targets": {
+    "activitiesboard-1d6d2": {
+      "hosting": {
+        "activitiesBoard-NEW": [
+          "activitiesboard-1d6d2"
+        ]
+      }
+    }
+  }
+}
